@@ -1,5 +1,5 @@
-from operation import add, subtract, multiply, divide
-from utils import get_number
+from calculator.operation import add, subtract, multiply, divide
+from calculator.utils import get_number
 
 def main():
     print("=== Simple Calculator ===")
